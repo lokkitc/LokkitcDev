@@ -24,11 +24,11 @@ const Projects: React.FC = () => {
                 </div>
                 
                 <div className="project-content">
-                  <h3 className="project-title">Soon</h3>
-                  <p className="project-description">Project coming soon...</p>
+                  <h3 className="project-title">Скоро</h3>
+                  <p className="project-description">Скоро..</p>
                   
                   <div className="project-technologies">
-                    <span className="tech-tag">Coming Soon</span>
+                    <span className="tech-tag">Скоро</span>
                   </div>
                 </div>
               </div>
@@ -37,8 +37,8 @@ const Projects: React.FC = () => {
           
           <div className="coming-soon-overlay">
             <div className="coming-soon-content">
-              <h3>Coming Soon</h3>
-              <p>Projects will be available shortly</p>
+              <h3>Вскорем времени </h3>
+              <p>Проекты будут доступны</p>
             </div>
           </div>
         </div>

@@ -32,5 +32,7 @@ export interface ContactInfo {
     linkedin?: string;
     twitter?: string;
     website?: string;
+    whatsapp?: string;
+    telegram?: string;
   };
 }

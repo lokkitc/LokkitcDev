@@ -19,10 +19,10 @@ const Contact: React.FC = () => {
     phone: content.contact.contactInfo.phone,
     location: content.contact.contactInfo.location,
     social: {
-      github: 'https://github.com/bekzat',
-      linkedin: 'https://linkedin.com/in/bekzat',
-      twitter: 'https://twitter.com/bekzat',
-      website: 'https://bekzat.dev'
+      github: 'https://github.com/lokkitc',
+      linkedin: 'https://linkedin.com/in/https://www.linkedin.com/in/bekzat-talimbek-b9754a342',
+      whatsapp: 'https://wa.me/message/R7IUT43MSWT6N1',
+      telegram: 'https://t.me/LokkitcDev'
     }
   };
 
@@ -91,11 +91,11 @@ const Contact: React.FC = () => {
                 <a href={contactInfo.social.linkedin} target="_blank" rel="noopener noreferrer">
                   LinkedIn
                 </a>
-                <a href={contactInfo.social.twitter} target="_blank" rel="noopener noreferrer">
-                  Twitter
+                <a href={contactInfo.social.whatsapp} target="_blank" rel="noopener noreferrer">
+                  WhatsApp
                 </a>
-                <a href={contactInfo.social.website} target="_blank" rel="noopener noreferrer">
-                  Website
+                <a href={contactInfo.social.telegram} target="_blank" rel="noopener noreferrer">
+                  Telegram
                 </a>
               </div>
             </div>
